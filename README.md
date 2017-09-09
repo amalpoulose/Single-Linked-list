@@ -1,0 +1,11 @@
+# Single-Linked-list
+
+Program allows to:
+1. Create linked list(using add begin or add end)
+2. Delete node from back
+3. Display nodes
+4. Read data from file to linked list
+5. Write data to file
+6. Reverse the links
+7. Reverse data
+8. Find number of nodes
