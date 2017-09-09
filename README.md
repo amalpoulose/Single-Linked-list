@@ -9,3 +9,6 @@ Program allows to:
 6. Reverse the links
 7. Reverse data
 8. Find number of nodes
+
+To compile use make command on terminal
+To run use ./outfile
