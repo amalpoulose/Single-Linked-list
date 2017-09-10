@@ -30,7 +30,7 @@ void delete_last(ST **ptr,int n)
                 temp=true_pointer;                               //save true_pointer to temporary pointer temp
                 true_pointer=true_pointer->next;                 //increment true_pointer value to next node
                 false_pointer=false_pointer->next;               //increment false_pointer value to next node
-                // if(!q)
+      
         }
         temp->next=true_pointer->next;                          //After finding node to be deleted,delete the node
 
