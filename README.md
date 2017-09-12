@@ -15,6 +15,9 @@ To run use ./outfile
 
 
 Static library and Dynamic library also included (liblnkd.a,liblnkd.so).
+
 To compile using library use:
-  cc main.c liblnkd.a  (static library)
-  cc main.c liblnkd.so (dynamic library)
+
+     cc main.c liblnkd.a  (static library)
+
+     cc main.c liblnkd.so (dynamic library)
