@@ -14,8 +14,8 @@ To compile using makefile :
     
          make
 To run use:
+     
      ./outfile
-
 
 Static library and Dynamic library also included (liblnkd.a,liblnkd.so).
 
