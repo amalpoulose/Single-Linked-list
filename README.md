@@ -10,8 +10,11 @@ Program allows to:
 7. Reverse data
 8. Find number of nodes
 
-To compile use make command on terminal
-To run use ./outfile
+To compile using makefile :
+    
+         make
+To run use:
+     ./outfile
 
 
 Static library and Dynamic library also included (liblnkd.a,liblnkd.so).
