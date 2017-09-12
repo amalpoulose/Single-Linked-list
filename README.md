@@ -14,7 +14,7 @@ To compile use make command on terminal
 To run use ./outfile
 
 
-static library and dynamic library also included (liblnkd.a,liblnkd.so)
-To compile using library use
-cc main.c liblnkd.a  (static library)
-cc main.c liblnkd.so (dynamic library)
+Static library and Dynamic library also included (liblnkd.a,liblnkd.so).
+To compile using library use:
+  cc main.c liblnkd.a  (static library)
+  cc main.c liblnkd.so (dynamic library)
